@@ -1,2 +1,2 @@
-# react-theme-blog-fe
-a blog build with react + typescript tech.
+# springboot-web
+a springboot web project build with react + typescript tech.
